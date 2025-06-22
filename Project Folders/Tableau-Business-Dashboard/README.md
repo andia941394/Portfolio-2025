@@ -4,7 +4,10 @@ In IST 718: Visual Analytics with Tableau, our team built a dashboard analyzing 
 
 ## Team Members
 - Marjan Abedini
-- 
+- Arsh Chandrakar
+- Prasanna Vinayak Dixit
+- Tessa Murphy
+- Rishabh Rai
 
 ## Skills Demonstrated
 - Data aggregation in Excel
