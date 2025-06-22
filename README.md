@@ -1,26 +1,41 @@
-# Portfolio-2025
-Applied Data Science Masters
-# Applied Data Science Portfolio – Marjan Abedini
+# 📊 Portfolio-2025
 
-This repository contains the final project portfolio for the MS in Applied Data Science at Syracuse University.
-
-## Contents
-
-- **Overview Document:** Name, SUID, email, table of contents  
-- **Resume:** My current professional resume  
-- **Written Paper:** A reflection paper linking program learning goals to each project  
-- **Project Folders:** Code, reports, and presentation materials for each project listed below
-
-## Projects
-
-1. [Airbnb Fraud Detection](projects/airbnb-fraud-detection/)
-2. [Citi Bike NYC Trip Analysis](projects/citi-bike-nyc-analysis/)
-3. [eSC Energy Consumption](projects/esc-energy-consumption/)
-4. [Event Management Database System](projects/event-management-db/)
-5. [Data Science Salary Insights](projects/data-science-salary-insights/)
-6. [Tableau Business Dashboard](projects/tableau-business-dashboard/)
+### M.S. in Applied Data Science – Final Portfolio  
+**Student:** Marjan Abedini  
+**University:** Syracuse University
 
 ---
 
-📫 Contact: mabedini@syr.edu      
-🧠 Portfolio Submission Date: June 22, 2025
+## 📁 Repository Contents
+
+This repository includes all required components for the final project portfolio milestone in the M.S. in Applied Data Science program.
+
+- **Overview.pdf** – Name, SUID, email, and table of contents  
+- **Resume.pdf** – Updated professional resume  
+- **Written_Paper.md** – Portfolio reflection paper linking program learning outcomes to individual projects  
+- **Project Folders/** – Organized subfolders containing deliverables (code, reports, dashboards, SQL files, presentations) for each project
+
+---
+
+## 🧠 Projects Overview
+
+Each project demonstrates core skills gained during the program—data analysis, visualization, predictive modeling, ethical reflection, and effective communication.
+
+| Project | Description | Link |
+|--------|-------------|------|
+| **Airbnb Fraud Detection** | Used Python clustering algorithms to detect fraudulent listings and visualize patterns. | [View Project](https://github.com/andia941394/Portfolio-2025/tree/main/Project%20Folders/Airbnb-Fraud-Detection) |
+| **Citi Bike NYC Trip Analysis** | Analyzed bike usage data in relation to time, location, and weather using Python. | [View Project](https://github.com/andia941394/Portfolio-2025/tree/main/Project%20Folders/Citi-Bike-NYC-Trip-Analysis) |
+| **eSC Energy Consumption** | Explored household electricity usage patterns using R to support energy-saving strategies. | [View Project](https://github.com/andia941394/Portfolio-2025/tree/main/Project%20Folders/eSC-Energy-Consumption) |
+| **Event Management Database System** | Designed and implemented a relational database in SQL for event registrations. | [View Project](https://github.com/andia941394/Portfolio-2025/tree/main/Project%20Folders/Event-Management-DB) |
+| **Data Science Salary Insights** | Visualized global salary disparities by role and region using R and statistical techniques. | [View Project](https://github.com/andia941394/Portfolio-2025/tree/main/Project%20Folders/Data-Science-Salary-Insights) |
+| **Tableau Business Dashboard – U.S. Storm Analysis** | Built an interactive Tableau dashboard showing storm trends and impact. | [View Project](https://github.com/andia941394/Portfolio-2025/tree/main/Project%20Folders/Tableau-Business-Dashboard) |
+
+---
+
+## 📫 Contact
+
+**Email:** mabedini@syr.edu  
+**Submission Date:** June 22, 2025
+
+---
+
