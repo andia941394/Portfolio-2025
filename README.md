@@ -22,5 +22,5 @@ This repository contains the final project portfolio for the MS in Applied Data 
 
 ---
 
-📫 Contact: mabedini@syr.edu 
+📫 Contact: mabedini@syr.edu      
 🧠 Portfolio Submission Date: June 22, 2025
