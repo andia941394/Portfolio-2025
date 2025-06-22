@@ -1,8 +1,8 @@
 **Applied Data Science Portfolio Summary**
 
 **Name:** Marjan Abedini\
-**SUID:** [Your SUID]\
-**Email:** [Your Email Address]
+**SUID:** 381636714\
+**Email:** mabedini@syr.edu
 
 ---
 
