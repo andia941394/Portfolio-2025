@@ -12,5 +12,10 @@ In IST 718: Visual Analytics with Tableau, our team built a dashboard analyzing 
 - Parameter and filter interactivity
 - Storytelling through dashboards
 
+## Files Included
+- The Tableau workbook file is hosted externally due to size limitations.
+
+🔗 [Download Tableau Dashboard (.twbx)](https://drive.google.com/file/d/1OVG_ZxRcjwOS2cQzonTzGUoAIAeoPTyk/view?usp=drive_link)
+
 ## GitHub Link
 [Tableau Business Dashboard](https://github.com/andia941394/Portfolio-2025/tree/main/Project%20Folders/Tableau-Business-Dashboard)
